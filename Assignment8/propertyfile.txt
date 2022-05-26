@@ -1,0 +1,3 @@
+#File locations
+#Wed May 18 22:31:07 EDT 2022
+SourceDirectory=/Users/jacobhelhoski/eclipse-workspace/Assignment8/
